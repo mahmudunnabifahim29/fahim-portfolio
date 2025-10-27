@@ -41,7 +41,7 @@ const Hero = () => {
       >
         <div className="w-40 h-40 rounded-full bg-gray-700 border-4 border-blue-400 mb-6 overflow-hidden">
           <img
-            src="/profile.jpg"
+            src="profile.jpg"
             alt="Profile"
             className="w-full h-full object-cover"
           />
